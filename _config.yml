@@ -3,8 +3,8 @@
 # project's root directory. Please note that the following lines are
 # NECESSARY for Prologue to work correctly:
 #
-# theme: jekyll-theme-prologue
-# collections: [sections]
+theme: jekyll-theme-prologue
+collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -36,8 +36,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
 author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+email: ustclin@126.com
+avatar: ./assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
